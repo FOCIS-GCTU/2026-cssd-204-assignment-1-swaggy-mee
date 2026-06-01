@@ -9,7 +9,7 @@ Program Description: This program prints the initials 'HAH' in stylized large le
                      except the rightmost period. Total output is 10 lines high, 60 chars wide.
 Author: HUDAL ADAMS
 Date: 31/5/2025
-Course: COMPUTER SCIENCE
+Programme: COMPUTER SCIENCE
 INDEX NUMBER: 2425400580
 GROUP: D
 Assignment: 1
